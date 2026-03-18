@@ -212,5 +212,20 @@ You can download using:
 gdown https://drive.google.com/file/d/1QyZ2KG2C4muGowClLoHpCzX717TdDz18/view?usp=sharing --fuzzy
 ```
 
+## Citation
+
+If you find our work helpful for your research, please consider citing us.
+
+```
+@INPROCEEDINGS{Sang2604:Attend,
+AUTHOR="Samyak Sanghvi and Piyush Miglani and Sarvesh Shashikumar and Kaustubh R
+Borgavi and Chetan Arora",
+TITLE="Attend What Matters: Leveraging Vision Foundational Models for Breast
+Cancer Classification Using Mammograms",
+BOOKTITLE="2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI) (ISBI
+2026)",
+YEAR=2026,
+}
+```
 ---
 
